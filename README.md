@@ -8,9 +8,13 @@
   </summary>
 
   <p align="left">
+    <a href="https://github.com/vincent-inc/v-service"><img width="275"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vincent-inc&repo=v-service&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
+        alt="V-Service">
+    </a>
     <a href="https://github.com/VincentB00/ChatBot"><img width="275"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VincentB00&repo=ChatBot&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
-        alt="API gateway">
+        alt="ChatBot">
     </a>
   </p>
 </details>
@@ -21,9 +25,21 @@
   </summary>
 
   <p align="left">
+    <a href="https://github.com/vincent-inc/v-service"><img width="275"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vincent-inc&repo=v-service&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
+      alt="V-Service">
+    </a>
+    <a href="https://github.com/vincent-inc/v-console"><img width="275"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vincent-inc&repo=v-console&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
+      alt="V-Service">
+    </a>
     <a href="https://github.com/vincent-inc/API-Gateway"><img width="275"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vincent-inc&repo=API-Gateway&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
         alt="API gateway">
+    </a>
+    <a href="https://github.com/vincent-inc/Authenticator"><img width="275"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vincent-inc&repo=Authenticator&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
+        alt="Authenticator">
     </a>
   </p>
 </details>
