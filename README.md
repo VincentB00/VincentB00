@@ -6,8 +6,9 @@
   <summary>
     <h3>❤️ Favorite projects ❤️</h3>
   </summary>
+
   <p align="left">
-    <a href="https://github.com/quiet-node/ethereum-dev-sandbox"><img width="275"
+    <a href="https://github.com/VincentB00/ChatBot"><img width="275"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VincentB00&repo=ChatBot&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
         alt="API gateway">
     </a>
@@ -18,9 +19,9 @@
   <summary>
     <h3>☕ <a href="https://vincentprivate.synology.me:10783/">V-Service</a> (personal project currently working on) ☕</h3>
   </summary>
-  <p align="left">
 
-    <a href="https://github.com/quiet-node/ethereum-dev-sandbox"><img width="275"
+  <p align="left">
+    <a href="https://github.com/vincent-inc/API-Gateway"><img width="275"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vincent-inc&repo=API-Gateway&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
         alt="API gateway">
     </a>
