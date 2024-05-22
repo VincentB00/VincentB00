@@ -1,5 +1,5 @@
 <br>
-<h1 align="center" style="color: rgb(255, 0, 225);">Hello there 👋, Vincent (Vinh) here</h1>
+<h1 align="center" style="color: rgb(255, 0, 225);">Hello there 👋, Vincent here</h1>
 <h2 align="center" style="color: rgb(0, 247, 255);">Welcome to my coding world</h2>
 
 <details open>
