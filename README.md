@@ -21,7 +21,7 @@
 
 <details open>
   <summary>
-    <h3>☕ <a href="https://wordpress.viescloud.com/about-me/my-projects">VEco-Service</a> (personal project currently working on) ☕</h3>
+    <h3>☕ <a href="https://wordpress.viescloud.com/about-me/my-projects">VEco-Service</a> (personal project currently working on) ☕ Check out all of it <a href="https://github.com/orgs/vincent-inc/repositories">repositories here</a> 🔍</h3>
   </summary>
 
   <p align="left">
