@@ -8,8 +8,8 @@
   </summary>
 
   <p align="left">
-    <a href="https://github.com/vincent-inc/v-service"><img width="275"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vincent-inc&repo=v-service&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
+    <a href="https://github.com/viescloud-llc/v-service"><img width="275"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viescloud-llc&repo=v-service&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
         alt="V-Service">
     </a>
     <a href="https://github.com/VincentB00/ChatBot"><img width="275"
@@ -21,24 +21,24 @@
 
 <details open>
   <summary>
-    <h3>☕ <a href="https://wordpress.viescloud.com/about-me/my-projects">VEco-Service</a> (personal project currently working on) ☕ Check out all of it <a href="https://github.com/orgs/vincent-inc/repositories">repositories here</a> 🔍</h3>
+    <h3>☕ <a href="https://wordpress.viescloud.com/about-me/my-projects">VEco-Service</a> (personal project currently working on) ☕ Check out all of it <a href="https://github.com/orgs/viescloud-llc/repositories">repositories here</a> 🔍</h3>
   </summary>
 
   <p align="left">
-    <a href="https://github.com/vincent-inc/v-service"><img width="275"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vincent-inc&repo=v-service&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
+    <a href="https://github.com/viescloud-llc/v-service"><img width="275"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viescloud-llc&repo=v-service&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
       alt="V-Service">
     </a>
-    <a href="https://github.com/vincent-inc/v-console"><img width="275"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vincent-inc&repo=v-console&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
+    <a href="https://github.com/viescloud-llc/v-console"><img width="275"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viescloud-llc&repo=v-console&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
       alt="V-Service">
     </a>
-    <a href="https://github.com/vincent-inc/API-Gateway"><img width="275"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vincent-inc&repo=API-Gateway&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
+    <a href="https://github.com/viescloud-llc/API-Gateway"><img width="275"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viescloud-llc&repo=API-Gateway&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
         alt="API gateway">
     </a>
-    <a href="https://github.com/vincent-inc/Authenticator"><img width="275"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vincent-inc&repo=Authenticator&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
+    <a href="https://github.com/viescloud-llc/Authenticator"><img width="275"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viescloud-llc&repo=Authenticator&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
         alt="Authenticator">
     </a>
   </p>
