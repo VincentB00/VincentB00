@@ -61,7 +61,7 @@
   </summary>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=VincentB00&theme=highcontrast)](https://git.io/streak-stats)
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VincentB00&theme=highcontrast" alt="GitHub Streak" /></a>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=VincentB00&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </details>
